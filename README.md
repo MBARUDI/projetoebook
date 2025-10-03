@@ -3,8 +3,8 @@
 💻 Tecnologias utilizadas no projeto
 
 
-# FOI UTILIZADO INTELIGÊNCIA ARTIFICIAL : GEMINI, COPILOT
-# FOI UTLIZADO POWERPOINT
+⚡ FOI UTILIZADO INTELIGÊNCIA ARTIFICIAL : GEMINI, COPILOT
+⚡ FOI UTLIZADO POWERPOINT
 
 ✨ Características
 Conteúdo gerado via ChatGPT E Gemini
