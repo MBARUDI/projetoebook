@@ -35,15 +35,15 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
 💻 Tecnologias utilizadas no projeto
 
 
-⚡ FOI UTILIZADO INTELIGÊNCIA ARTIFICIAL : GEMINI, COPILOT
+⚡ Foram utilizadas as INTELIGÊNCIAS ARTIFICIAIS : GEMINI, COPILOT
 ⚡ FOI UTLIZADO POWERPOINT
 
 ✨ Características
-* Conteúdo gerado via ChatGPT E Gemini
-* Imagens geradas via ChatGPT E Gemini
-* Imagens inseridas no power  point
+* Conteúdo gerado via ChatGPT E Gemini.
+* Imagens geradas via ChatGPT E Gemini.
+* Imagens E Textos foram inseridas no power point.
 
-### 🌐 Redes e Contatos
+## 🌐 Redes e Contatos
 
 [](www.linkedin.com/in/marcelo-barudi) [](mailto:marcelobarudi71@gmail.com) [](https://wa.me/5511985919330) [](https://github.com/MBARUDI)
 
