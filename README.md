@@ -39,8 +39,8 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
 ⚡ FOI UTLIZADO POWERPOINT
 
 ✨ Características
-* Conteúdo gerado via ChatGPT E Gemini.
-* Imagens geradas via ChatGPT E Gemini.
+* Conteúdo gerado via Copilot e Gemini.
+* Imagens geradas via Copilot e Gemini.
 * Imagens e Textos foram inseridas no power point.
 
 ## 🌐 Redes e Contatos
