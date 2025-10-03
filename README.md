@@ -1,4 +1,15 @@
+## CRIAÇÃO DE EBOOK
 
+💻 Tecnologias utilizadas no projeto
+
+
+# FOI UTILIZADO INTELIGÊNCIA ARTIFICIAL : GEMINI, COPILOT
+# FOI UTLIZADO POWERPOINT
+
+✨ Características
+Conteúdo gerado via ChatGPT E Gemini
+Imagens geradas via ChatGPT E Gemini
+Imagens inseridas no power  point
 <!--
 **MBARUDI/MBARUDI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
