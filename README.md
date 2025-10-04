@@ -57,7 +57,7 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
  [![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MBARUDI)
 
 
-## 🧪 ebook digital
+## 🧪 Gestão Eficiente
 
 
 * Capítulo 1
