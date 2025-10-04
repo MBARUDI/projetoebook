@@ -75,6 +75,11 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
 * Capítulo 7
 * https://gestaoeficienteliderando.blogspot.com/2025/10/capitulo-7-estilos-de-gestores.html
 
+ ## 🧪 Vídeo no Youtube 
+
+* https://www.youtube.com/watch?v=q90ptQUmDPQ
+  
+
  ## 🧪 DESCRIÇÃO
 
 ⚡ Uma breve descrição sobre minhas qualificações
