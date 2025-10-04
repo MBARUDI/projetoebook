@@ -57,21 +57,30 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
  [![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MBARUDI)
 
 
-
----
-
+## 🧪 ebook digital
 
 
-
-
-
+* Capítulo 1
+* https://gestaoeficienteliderando.blogspot.com/2025/10/capitulo-1-lideres-e-gestores.html
+* Capítulo 2
+* (https://gestaoeficienteliderando.blogspot.com/2025/10/capitulo-2-equipe.html)
+* Capítulo 3
+* https://gestaoeficienteliderando.blogspot.com/2025/10/capitulo-3-estrategia.html
+* Capítulo 4
+* https://gestaoeficienteliderando.blogspot.com/2025/10/capitulo-4-negociacao.html
+* Capítulo 5
+* https://gestaoeficienteliderando.blogspot.com/2025/10/capitulo-5-lideranca.html
+* Capítulo 6
+* https://gestaoeficienteliderando.blogspot.com/2025/10/capitulo-6-tipos-de-gestores.html
+* Capítulo 7
+* https://gestaoeficienteliderando.blogspot.com/2025/10/capitulo-7-estilos-de-gestores.html
 
  ## 🧪 DESCRIÇÃO
 
 ⚡ Uma breve descrição sobre minhas qualificações
 ⚡ Engenharia Civil, Faculdade de Engenharia São Paulo - (Dez/1997).
 ⚡ MBA Gestão Empresarial – Pós-Graduação UNIP (2010).
-⚡ ngenharia de Segurança do Trabalho - Pós-Graduação USP/PECE (2014).
+⚡ Engenharia de Segurança do Trabalho - Pós-Graduação USP/PECE (2014).
 ⚡ Técnicas de Transações Imobiliárias – INED (2018).
 ⚡ Analista de Cibersegurança Júnior- CISCO(2024)
  
